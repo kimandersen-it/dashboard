@@ -1,1 +1,1 @@
-web: gunicorn kadashboard1.app:app
+web: gunicorn app:app
